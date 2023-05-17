@@ -20,6 +20,7 @@
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="36" height="36" alt="npm" /></a>
 <a href="https://github.com/hddev8" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="36" height="36" alt="REST" /></a>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" width="36" height="36" alt="Cypress" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material" /></a>
 
 ### Badges
 
