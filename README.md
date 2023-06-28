@@ -1,6 +1,6 @@
-# Hi 👋 My name is HDdev8
+# Hi 👋
 
-## Fullstack Developer
+## I'm a Fullstack Developer :slightly_smiling_face:
 
 ### Skills
 
